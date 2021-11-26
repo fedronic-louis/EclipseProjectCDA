@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: fr.eni.trash.test.calculator.SubstractionTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.032 s <<< FAILURE! - in fr.eni.trash.test.calculator.SubstractionTest
+testOper(fr.eni.trash.test.calculator.SubstractionTest)  Time elapsed: 0.005 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at fr.eni.trash.test.calculator.SubstractionTest.testOper(SubstractionTest.java:16)
+
+testSubstract(fr.eni.trash.test.calculator.SubstractionTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at fr.eni.trash.test.calculator.SubstractionTest.testSubstract(SubstractionTest.java:11)
+
